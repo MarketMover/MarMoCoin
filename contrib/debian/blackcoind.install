@@ -1,0 +1,2 @@
+debian/bin/MarMoCoind usr/bin
+src/MarMoCoind usr/lib/MarMoCoin
